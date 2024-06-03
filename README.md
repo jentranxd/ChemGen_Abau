@@ -9,4 +9,4 @@ Code for manuscript in preparation for Molecular Systems Biology.
 
 This code is meant to be a snapshot of code used, and this repo is unlikely to be heavily updated beyond this publication.
 Questions about the publication can be addressed to the corresponding author. 
-Feel free to contact <jentranxd> or <ryandward> directly for more code-oriented consult.
+Feel free to contact jentranxd or ryandward directly for more code-oriented consult.
