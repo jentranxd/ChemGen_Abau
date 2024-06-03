@@ -121,7 +121,8 @@ keep <- important_correlations %>% filter(corr^2 > 0.5)
 ###############
 ###############
 
-#polymyxin B example
+#polymyxin B example of overselection 
+#replicates have high correlations despite most strains being wiped in the higher concentration
 polymyxins <- data_design %>% filter(verbose %like% 'polymyxin')
 polymyxins_data <- data_grid_remelted %>% filter(sample %in% polymyxins$condition)
 
