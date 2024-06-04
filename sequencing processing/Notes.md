@@ -13,3 +13,9 @@ We observed instances of overselection, where too high of chemical concentration
   
 **Relative fitness Scores**  
 Log2 fold changes and confidence values were computed using EdgeR. Gene-level values were calculated by taking the median guide-level log2 fold-change for perfect match guides; confidence determined by computing Stouffer's p-value using guide-level FDR values (poolr R package).
+
+**Final datasets**
+count_by_position.tsv.gz contains all the counts from barcoder.  
+condition_list_correlation_qc contains all the correlations above the threshold.  
+conditions_list_botneck contains the conditions that pass the nontargeting control guide bottleneck number (Nb) >10000 under $condition.
+
