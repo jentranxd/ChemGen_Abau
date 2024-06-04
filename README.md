@@ -1,5 +1,5 @@
 # ChemGen_Abau
-Code for manuscript in preparation for Molecular Systems Biology.
+Code for manuscript in preparation for Molecular Systems Biology. Notes in each folder provide more methodological detail for scripts there.  
 
 **Sequencing processing**: Initial sequencing data counting and QC  
 **Fitness data and graphs**: Descriptions and visualizations of fitness data (e.g., chemical response graphs, heatmaps)  
