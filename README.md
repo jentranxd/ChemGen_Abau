@@ -16,5 +16,5 @@ https://github.com/BIONF
 Chemical pathway effects and cheminformatics analyses  
   
 ### Network:  
-Code used to generate the essential gene network (final tables fed into Cytoscape for visualization)  
+Code used to generate the essential gene network (final tables fed into Cytoscape for visualization; https://cytoscape.org/)  
 
