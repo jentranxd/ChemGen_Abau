@@ -1,4 +1,4 @@
-# Chemical genomics - A. baumannii essential gene library
+# Chemical genomics - _A. baumannii_ essential gene library
 Code and input files for manuscript in preparation for Molecular Systems Biology. Notes in each folder provide more methodological detail for scripts there. 
 This code is meant to be a snapshot of code used, and this repo is unlikely to be updated beyond this publication.
 Questions about the publication can be addressed to the corresponding author. 
