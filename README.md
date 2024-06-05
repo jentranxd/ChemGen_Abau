@@ -13,3 +13,7 @@ Code for manuscript in preparation for Molecular Systems Biology. Notes in each 
 This code is meant to be a snapshot of code used, and this repo is unlikely to be heavily updated beyond this publication.
 Questions about the publication can be addressed to the corresponding author. 
 Feel free to contact jentranxd or ryandward directly for more code-oriented consult.
+
+All conservation/evolutionary analyses were done in collaboration with the Ebersberger lab at Goethe University Frankfurt.
+https://github.com/BIONF 
+
