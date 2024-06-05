@@ -2,7 +2,7 @@
 Code and input files for manuscript in preparation for Molecular Systems Biology. Notes in each folder provide more methodological detail for scripts there. 
 This code is meant to be a snapshot of code used, and this repo is unlikely to be updated beyond this publication.
 Questions about the publication can be addressed to the corresponding author. 
-Feel free to contact jentranxd or ryandward directly for more code-oriented consult.  
+Feel free to contact jentranxd or ryandward directly for more code-oriented consult (but no promises on response time).  
 
 ### Sequencing processing:    
 Initial sequencing data counting and QC  
