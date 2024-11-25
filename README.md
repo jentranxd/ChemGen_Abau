@@ -7,7 +7,7 @@ Feel free to contact jentranxd or ryandward directly for more code-oriented cons
 ### Sequencing processing:    
 Initial sequencing data counting and QC  
 
-### Fitness data and graphs:  
+### CG scores and relative fitness:  
 Descriptions and visualizations of fitness data, CG scores, etc. (e.g., chemical response graphs, heatmaps) 
 
 ### Conservation analyses
