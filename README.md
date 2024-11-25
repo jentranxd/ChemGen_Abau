@@ -8,7 +8,9 @@ Feel free to contact jentranxd or ryandward directly for more code-oriented cons
 Initial sequencing data counting and QC  
 
 ### Fitness data and graphs:  
-Descriptions and visualizations of fitness data (e.g., chemical response graphs, heatmaps)  
+Descriptions and visualizations of fitness data, CG scores, etc. (e.g., chemical response graphs, heatmaps) 
+
+### Conservation analyses
 All conservation/evolutionary analyses were done in collaboration with the Ebersberger lab at Goethe University Frankfurt.
 https://github.com/BIONF 
 
