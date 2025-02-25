@@ -1,11 +1,11 @@
 # Chemical genomics - _A. baumannii_ essential gene library
-Code and input files for manuscript in preparation for Molecular Systems Biology. Notes in each folder provide more methodological detail for scripts there. 
+Code and input files for manuscript in revision for PLOS Genetics. Notes in each folder provide more methodological detail for scripts there. 
 This code is meant to be a snapshot of code used, and this repo is unlikely to be updated beyond this publication.
 Questions about the publication can be addressed to the corresponding author. 
 Feel free to contact jentranxd or ryandward directly for more code-oriented consult (but no promises on response time).  
 
 ### Sequencing processing:    
-Initial sequencing data counting and QC  
+Initial sequencing data counts (minimally processed dataset) and QC  
 
 ### CG scores and relative fitness:  
 Descriptions and visualizations of fitness data, CG scores, etc. (e.g., chemical response graphs, heatmaps) 
